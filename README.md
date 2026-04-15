@@ -1,4 +1,4 @@
-# kainat-1802.github.io
+# ss1_dsaa2026.github.io
 DS4SG: Data Science for Social Good
 IEEE DSAA 2026 Special Session on "DS4SG: Data Science for Social Good" 
 Special Session Paper Submission: May 30, 2026 
